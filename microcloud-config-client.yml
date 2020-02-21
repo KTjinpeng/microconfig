@@ -9,7 +9,7 @@ server:
 spring:
   profiles: dev
   application:
-      name: microconfig-test-client2190344
+      name: microconfig-test-client2
 
 eureka:
  client:
@@ -19,7 +19,7 @@ eureka:
 
 info:
   app.name: microcloud-config-client-dev
-  company.name: enjoy
+  company.name: enjoy1903448752
 ---
 server:
   port: 8102
